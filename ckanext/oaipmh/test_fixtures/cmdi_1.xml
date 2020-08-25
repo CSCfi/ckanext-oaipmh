@@ -7,7 +7,7 @@
     <request
             verb="GetRecord"
             metadataPrefix="cmdi0571"
-            identifier="oai:kielipankki.fi:sha3a880">http://metalb.csc.fi/cgi-bin/quetest
+            identifier="oai:kielipankki.fi:sha3a880">https://kielipankki.fi/md_api/quetest
     </request>
     <GetRecord>
         <record>
